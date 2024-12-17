@@ -1,1 +1,1 @@
-
+This is for functions to be used in the main, where distance2curve computes the minimum distance from certain point to a curve, circle_chord shows how to compute the width of corridor by chords and tight_subplot gives a way to plot figures compactly.
